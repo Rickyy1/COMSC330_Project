@@ -19,6 +19,7 @@ import os
 import warnings as warn
 import pandas as pd
 import numpy as np
+import tkinter as tk
 
 warn.filterwarnings("ignore")
 #one of the pandas functions makes the output illegible with how many deprecation warnings it throws.
